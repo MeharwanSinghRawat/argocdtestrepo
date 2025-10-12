@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: meharcon
-        image: sonambewafaa/hellodhondhu
+        image: nginx
         ports:
         - containerPort: 80
